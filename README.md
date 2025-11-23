@@ -3,7 +3,8 @@
 상명대학교 컴퓨터과학전공 3학년 2학기 <사물인터넷 프로그래밍> 교과목의 기말 프로젝트입니다.
 
 사용자의 기분에 맞춰 그 날의 향수를 특별 제작해주는 향수 제조기입니다.
-
+![실행 예시01](https://github.com/lxvxxu/IoT_Programming/blob/main/01.png)
+![실행 예시01](https://github.com/lxvxxu/IoT_Programming/blob/main/02.png)
 
 
 ## 📆 개발 기간 (Development Period)
